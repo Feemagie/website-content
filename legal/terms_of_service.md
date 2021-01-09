@@ -1,4 +1,4 @@
-# Feemagie Terms of Service
+# Terms of Service
 
 Revised: January 8, 2021
 
