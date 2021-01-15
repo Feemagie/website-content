@@ -6,6 +6,7 @@ date: 2021-01-12
 tags: Username, Feemagie, Streaming
 thumbnail: https://feemagie.com/images/[category]/[slug]/thumbnail.jpg
 banner: https://feemagie.com/images/[category]/[slug]/banner.jpg
+draft: true
 ---
 
 # Streamer Name - Feemagie

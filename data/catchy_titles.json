@@ -1,0 +1,162 @@
+{
+    "themes": [
+        "neutral",
+        "cute",
+        "shooter",
+        "space",
+        "nature",
+        "adventure"
+    ],
+    "nouns": [
+        {
+            "text": "Pupper",
+            "theme": ["cute", "neutral"]
+        },
+        {
+            "text": "Doggo",
+            "theme": ["cute", "neutral"]
+        },
+        {
+            "text": "Mew",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Cat",
+            "theme": ["cute", "neutral"]
+        },
+        {
+            "text": "Zoomer",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Boomer",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Earth",
+            "theme": ["space", "nature", "adventure"]
+        },
+        {
+            "text": "Astronaut",
+            "theme": ["space"]
+        },
+        {
+            "text": "Missile",
+            "theme": ["shooter"]
+        }
+    ],
+    "verbs": [
+        {
+            "text": "Dance",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Slap",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Take Off",
+            "theme": ["space", "neutral"]
+        },
+        {
+            "text": "Scratchy",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Meow",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Hiss",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Bark",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Explode",
+            "theme": ["adventure", "shooter", "neutral"]
+        },
+        {
+            "text": "Mine",
+            "theme": ["adventure"]
+        },
+        {
+            "text": "Mine",
+            "theme": ["adventure"]
+        }
+    ],
+    "catch": [
+        {
+            "text": "*Angry {noun} noises*",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "*Happy {noun} noises*",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "*Content {noun} noises*",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Strange but Epic {noun}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Just {noun}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Just say \"{noun}\"",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Just say \"{verb}\"",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Why {verb}, when you can {verb}?",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "T-minus 10 to {verb}",
+            "theme": ["space"]
+        },
+        {
+            "text": "Don't ask {noun}, just {verb}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Disregard {noun}, acquire {noun}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Break free from {noun}!",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Pint of {noun}, sir?",
+            "theme": ["adventure"]
+        }
+    ],
+    "topics": [
+        {
+            "text": "Let's go {topic}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "{topic} ADVENTURE!",
+            "theme": ["neutral", "adventure"]
+        },
+        {
+            "text": "Hacking through {topic}",
+            "theme": ["neutral", "adventure", "shooter"]
+        },
+        {
+            "text": "{topic} needs Co-Pilots",
+            "theme": ["space", "shooter"]
+        }
+    ]
+}
