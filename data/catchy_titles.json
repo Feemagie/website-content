@@ -43,6 +43,34 @@
         {
             "text": "Missile",
             "theme": ["shooter"]
+        },
+        {
+            "text": "Gun",
+            "theme": ["shooter"]
+        },
+        {
+            "text": "Plushie",
+            "theme": ["cute"]
+        },
+        {
+            "text": "Sword",
+            "theme": ["adventure"]
+        },
+        {
+            "text": "Health Potion",
+            "theme": ["adventure"]
+        },
+        {
+            "text": "Bush",
+            "theme": ["nature"]
+        },
+        {
+            "text": "Safe Zone",
+            "theme": ["shooter"]
+        },
+        {
+            "text": "Superior",
+            "theme": ["neutral", "shooter"]
         }
     ],
     "verbs": [
@@ -85,6 +113,22 @@
         {
             "text": "Mine",
             "theme": ["adventure"]
+        },
+        {
+            "text": "Slash",
+            "theme": ["adventure"]
+        },
+        {
+            "text": "Shoot",
+            "theme": ["shooter"]
+        },
+        {
+            "text": "Pose",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Sleep",
+            "theme": ["neutral"]
         }
     ],
     "catch": [
@@ -125,6 +169,10 @@
             "theme": ["space"]
         },
         {
+            "text": "T-minus {verb} to {verb}",
+            "theme": ["space"]
+        },
+        {
             "text": "Don't ask {noun}, just {verb}",
             "theme": ["neutral"]
         },
@@ -139,6 +187,50 @@
         {
             "text": "Pint of {noun}, sir?",
             "theme": ["adventure"]
+        },
+        {
+            "text": "Keep Calm and {verb}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Why do {noun} {verb}?",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Dat {noun}?",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Absolute {noun} unit",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Honey Badger don't {verb}",
+            "theme": ["nature"]
+        },
+        {
+            "text": "{noun} sleeps tonight",
+            "theme": ["nature"]
+        },
+        {
+            "text": "Defeat your {noun}",
+            "theme": ["adventure"]
+        },
+        {
+            "text": "Collect bounty for defeated {noun}",
+            "theme": ["neutral", "adventure"]
+        },
+        {
+            "text": "{noun} passes Go",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Scumbag {noun}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Quick! While {noun} {verb}!",
+            "theme": ["neutral"]
         }
     ],
     "topics": [
@@ -157,6 +249,30 @@
         {
             "text": "{topic} needs Co-Pilots",
             "theme": ["space", "shooter"]
+        },
+        {
+            "text": "Hiking through {topic}",
+            "theme": ["nature", "adventure"]
+        },
+        {
+            "text": "Chill and {topic}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Never too late to {topic}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "I present {topic}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Let me show you {topic}",
+            "theme": ["neutral"]
+        },
+        {
+            "text": "Loves {topic}",
+            "theme": ["cute"]
         }
     ]
 }
