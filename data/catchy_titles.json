@@ -229,7 +229,7 @@
             "theme": ["neutral"]
         },
         {
-            "text": "Quick! While {noun} {verb}!",
+            "text": "Quick! While {noun} is sleeping!",
             "theme": ["neutral"]
         }
     ],
