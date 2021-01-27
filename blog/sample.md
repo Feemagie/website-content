@@ -1,5 +1,5 @@
 ---
-title: Sample Blog Post
+title: Template Blog Post
 description: A sample blog post to use as a template for me, Feemagie.
 author: Feemagie
 tags: Example, Template, Styling
