@@ -5,8 +5,8 @@ description: The four step journey I took to come up with that perfect username 
 author: Feemagie
 date: 2021-01-17
 tags: Username, Feemagie, Streaming
-thumbnail: https://feemagie.com/images/[category]/[slug]-thumbnail.jpg
-banner: https://feemagie.com/images/[category]/[slug]-banner.jpg
+thumbnail: https://feemagie.com/images/[category]/[slug]-banner.webp
+banner: https://feemagie.com/images/[category]/[slug]-banner.webp
 ---
 
 Hello! I'm Feemagie. It wasn't easy coming up with a meaningful and/or easy to remember name to use as my online handle. It takes time, research, nerves and having that special ring to it. Sometimes it's also desirable to be easily identified on a variety of different platforms. And for my case, keeping a consistent username between them is quite important. If you're trying to come up with that username for your own online presence, I hope this article of my own journey can be helpful in discovering what yours might be as well.
@@ -61,7 +61,7 @@ And just like that &#42; **poof** &#42;, a name was born, and by no surprise the
 
 _*signed, sealed and delivered, I'm Yours*_. Easy to find, easy to recognize on any platform without thinking too much about it. Of course, a few platforms I couldn't get the exact name. For example... my Instagram account had to be "fee.magie" since the desired account name was reserved for a very cute cat account....Not mad though, the cat is _adorable_.
 
-![Vote between two Final Versions of the Logo](/images/blog/logo_vote.png "Final Versions of the Logo")
+![Vote between two Final Versions of the Logo](/images/blog/logo_vote.webp "Final Versions of the Logo")
 
 _These were the final two versions of the logo that I put up on instagram to be decided on_
 

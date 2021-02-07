@@ -4,8 +4,8 @@ subtitle: Exploring the Definition of the Indie Title
 description: I dive into the definition, the indie game world and how it will influence the games I play and share with you guys.
 author: Feemagie
 date: 2021-01-20
-thumbnail: https://feemagie.com/images/[category]/[slug]-thumbnail.jpg
-banner: https://feemagie.com/images/[category]/[slug]-banner.jpg
+thumbnail: https://feemagie.com/images/[category]/[slug]-banner.webp
+banner: https://feemagie.com/images/[category]/[slug]-banner.webp
 bannerCredit: Photo by Carl Raw on Unsplash
 ---
 
