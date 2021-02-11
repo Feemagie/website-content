@@ -5,8 +5,9 @@ description: The four step journey I took to come up with that perfect username 
 author: Feemagie
 date: 2021-01-17
 tags: Username, Feemagie, Streaming
-thumbnail: https://feemagie.com/images/[category]/[slug]-banner.webp
-banner: https://feemagie.com/images/[category]/[slug]-banner.webp
+thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.com/images/[category]/[slug]/banner.webp
+bannerCredit: Photo by Nadine Berlin
 ---
 
 Hello! I'm Feemagie. It wasn't easy coming up with a meaningful and/or easy to remember name to use as my online handle. It takes time, research, nerves and having that special ring to it. Sometimes it's also desirable to be easily identified on a variety of different platforms. And for my case, keeping a consistent username between them is quite important. If you're trying to come up with that username for your own online presence, I hope this article of my own journey can be helpful in discovering what yours might be as well.

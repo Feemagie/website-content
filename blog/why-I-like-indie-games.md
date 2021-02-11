@@ -5,8 +5,8 @@ description: Why am I inspired to choose a focus on Indie Games? Glad you asked!
 author: Feemagie
 date: 2021-01-21
 tags: Indie Games, Feemagie, Streaming, Indie, Blog, Uncharted waters
-thumbnail: https://feemagie.com/images/[category]/[slug]-banner.webp
-banner: https://feemagie.com/images/[category]/[slug]-banner.webp
+thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by Bartek Mazurek on Unsplash
 ---
 

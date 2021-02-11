@@ -4,8 +4,8 @@ subtitle: Great Recommendations Beginner or Advanced Streaming Items
 description: What are some good equipment for streamers who are starting out? I have excellent recommendations for a webcam, microphone, computer, and more!
 author: Feemagie
 date: 2021-01-28
-thumbnail: https://feemagie.com/images/[category]/[slug]-banner.webp
-banner: https://feemagie.com/images/[category]/[slug]-banner.webp
+thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by ELLA DON on Unsplash
 ---
 
