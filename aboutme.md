@@ -1,5 +1,3 @@
-# About Feemagie
-
 Hello there. I'm Feemagie; a name which translates to "Fairy Magic" in the German language. Welcome to my Website!
 
 I am a streamer, writer, and content producer with a degree in Illustrations and Game Design. I enjoy all sorts of games – but most of all, I enjoy the capability games have given us to sharing our *magical* worlds with each other. 
