@@ -1,7 +1,7 @@
 ---
-title: Why Indie Games?
-subtitle: The Great Indie Qualities that Inspired Me
-description: Why am I inspired to choose a focus on Indie Games? Glad you asked! You'll enjoy hearing the many qualities that make them a special and distinguishable paradigm.
+title: Why Play Indie Games?
+subtitle: The Style of Indie Games That Inspire Me
+description: Budget aside, what makes indie games different from triple A games? Why am I inspired to choose a focus on Indie Games? Hear about the many qualities that make them a special and distinguishable paradigm.
 author: Feemagie
 date: 2021-01-21
 tags: Indie Games, Feemagie, Streaming, Indie, Blog, Uncharted waters
@@ -10,9 +10,9 @@ banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by Bartek Mazurek on Unsplash
 ---
 
-## So, Why Indie Games?
+## So, Why Play Indie Games?
 
-In relation to my journey of deduction in my previous post ["What are Indie Games? Like Really?"](/blog/what-are-indie-games). 
+This article is in relation to my journey of deduction in my previous post ["What are Indie Games? Like Really?"](/blog/what-are-indie-games). For this article it's important to know the key aspects of an indie game that I go over in my previous post. But who am I to tell you what you can or can't read, especially if you already know what an Indie game is! After diving in to this topic, you'll have a better understanding of the qualities in indie games that make them worth playing. If you like my content, check my work on [Twitch.TV](https://www.twitch.tv/feemagie) and on my [YouTube Channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA).
 
 ### The Indie Style
 
@@ -22,7 +22,7 @@ As we know, Indie Games are not characterized by a high budget, but by the fact 
 
 #### The Charm of indies and The passion of the developers
 
-I learned first hand, It's damn difficult to develop a game! For my final project in my Games Design Studies, I had to design my own game - I had to create a Game Design Document + produce some graphical elements. I basically was an _Indie developer_ for that semester. It was incredibly challenging, tiring and fun - of course I bloomed in creating the Graphics and UI elements the most and surprisingly the storytelling. Of course, in my typical fashion, I chose to make one of the most complex games I could for my first game - cuz why not right?. I should mention, at that point in time, I was still really hyped on the Uncharted series - so naturally some of the specs from that game were set - PS4 game, Genre: Action Adventure, Capturing story with gruelling Bosses.
+I learned first hand, It's damn difficult to develop a game! For my final project in my Games Design Studies, I had to design my own game - I had to create a Game Design Document, plus produce some graphical elements. I basically was an _Indie developer_ for that semester. It was incredibly challenging, tiring and fun - of course I bloomed in creating the Graphics and UI elements the most and surprisingly the storytelling. Of course, in my typical fashion, I chose to make one of the most complex games I could for my first game - cuz why not right? I should mention at that point in time I was still really hyped on the Uncharted series. So naturally some of the specs from that game were set - PS4 game, Genre: Action Adventure, Capturing story with gruelling Bosses.
 
 ![Uncharted Waters Cover Art](/images/blog/uncharted_waters-cover.webp "Uncharted Waters Cover Art Design")
 _My cover design to the PS4 Game_
@@ -34,17 +34,17 @@ Uncharted Waters (too on the nose?) - A captivating Story of Nyssa VasiliKós.
 ![Uncharted Waters 3D Room](/images/blog/uncharted_waters-3d-room.webp "Uncharted Waters 3D Room Concept")
 _my 3D model of the throne room_
 
-I really love the world I created and I'm sure you guys would too, maybe one day I can share it. If there are any Indie developers out there that have an interest in bringing this gem to life with me, contact me!
+I really love the world I created and I'm sure you guys would too, maybe one day I can share it. If there are any indie developers out there that have an interest in bringing this gem to life with me, contact me!
 
 ![Uncharted Waters Locations](/images/blog/uncharted_waters-locations.webp "Uncharted Waters Location Concepts")
-_Some of the UI design, Brainstorming and moodboards of environment/ scenes of the game. Small disclaimer - I don't own any of these pictures, they were all just as reference and thank god for Photoshop_
+_Some of the UI design, Brainstorming and moodboards of the environment and scenes of the game. Small disclaimer - I don't own any of these pictures, they were all just as reference. Thank god for Photoshop!_
 
 ![Uncharted Waters Menu & Pause Screen](/images/blog/uncharted_waters-menu-screens.webp "Uncharted Waters Menu & Pause Screen Examples")
-_screenshots of the main menu and the pause menu_
+_Screenshots of the main menu and the pause menu._
 
-The project really progressed my appreciation for indie developers. The developers often stand alone, they put all their heart and soul into the game. Plus, the game ideas are often their own, which strengthens the developer's bond with their game. For indie developers, it's often more than just a job or a project they're working on. That's why they are able to get the best out of their game and create the games that indie fans (like myself) love so much. This is the reason my streams will focus on Indie games - and they will be defined mainly by the developers being Indie and not focusing on their publishers all that much....not gonna be nit-picky there.
+The project really progressed my appreciation for indie developers. The developers often stand alone, they put all their heart and soul into the game. Plus, the game ideas are often their own, which strengthens the developer's bond with their game. For indie developers, it's often more than just a job or a project they're working on. That's why they are able to get the best out of their game and create the games that indie fans (like myself) love so much. This is the reason my streams will focus on Indie games, and they will be defined mainly by the developers being indie and not focusing on their publishers all that much... Not gonna be nit-picky there.
 
-So why Indie games? Well I think _the better question is **why not Indie games?**_
+So why play indie games? Well I think _the better question is **why not indie games?**_
 
 
 
