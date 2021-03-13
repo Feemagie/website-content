@@ -1,7 +1,7 @@
 ---
-title: The Making of my Username
+title: The Making of my Username, Feemagie
 subtitle: Journey to Coming Up with my Steamer Username
-description: The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
+description: ow I got my title as a female Twitch streamer. The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
 author: Feemagie
 date: 2021-01-17
 tags: Username, Feemagie, Streaming
@@ -34,11 +34,11 @@ In summary, I tried to come up with two or three words that sparked to me, and c
 
 Availability is an essential aspect to selecting my name. It definitely goes without saying... if I couldn't use it on the social platforms I was active on, I wouldn't be able to associate myself with it.
 
-This is where writing down all those all those words and meanings paid off. I had plenty of words to shuffle, translate, and puzzle with. From here, I wanted to find out what names where available on the platforms I wanted to be present on. It was a bit difficult since there were so many: Twitch, YouTube, Twitter, Reddit, Discord, Instagram, Steam, Itch.IO... and a few more. I focused on the one's that were most important to me: Twitch, YouTube, Twitter, Instagram, and (although not a social platform) an available domain above all. A great site that helped save a buttload of time was www.namechk.com. 
+This is where writing down all those all those words and meanings paid off. I had plenty of words to shuffle, translate, and puzzle with. From here, I wanted to find out what names were available on the platforms I wanted to be present on. It was a bit difficult since there were so many: Twitch, YouTube, Twitter, Reddit, Discord, Instagram, Steam, Itch.IO... and a few more. I focused on the ones that were most important to me: Twitch, YouTube, Twitter, Instagram, and (although not a social platform) an available domain above all. A great site that helped save a buttload of time was www.namechk.com. 
 
-This narrowed my ideas down by quite a bit more, since, of course, these were very popular platforms with a phenomenal number of users with a vast variety registered names (some not even used, which was quite annoying). I think I was fortunate that combinations of German words were still available...hehe clever me. 
+This narrowed my ideas down by quite a bit more, since, of course, these were very popular platforms with a phenomenal number of users with a vast variety of registered names (some not even used, which was quite annoying). I think I was fortunate that combinations of German words were still available... hehe clever me. 
 
-Some examples were...
+Some examples were:
 
 * Toxicfairy – _maybe a little too toxic_
 * Forbiddenfairy – _Maybe a tad too dark_
@@ -60,7 +60,7 @@ As I continued to narrow down my username, I certainly wanted to consider the le
 
 And just like that &#42; **poof** &#42;, a name was born, and by no surprise the chosen name was "Feemagie". I began registering said name on all the platforms I was going to be using. 
 
-_*signed, sealed and delivered, I'm Yours*_. Easy to find, easy to recognize on any platform without thinking too much about it. Of course, a few platforms I couldn't get the exact name. For example... my Instagram account had to be "fee.magie" since the desired account name was reserved for a very cute cat account....Not mad though, the cat is _adorable_.
+_*signed, sealed and delivered, I'm Yours*_. Easy to find, easy to recognize on any platform without thinking too much about it. Of course, a few platforms I couldn't get the exact name. For example... my Instagram account had to be "fee.magie" since the desired account name was reserved for a very cute cat account... Not mad though, the cat is _adorable_.
 
 ![Vote between two Final Versions of the Logo](/images/blog/logo_vote.webp "Final Versions of the Logo")
 
