@@ -6,4 +6,4 @@ For many, video games have grown with us. Gaming, both literally and figurativel
 
 On this site, you can read my experience on this journey, the indie games I enjoy, and my art sessions. While you can watch my streams on [Twitch.TV](https://www.twitch.tv/feemagie) and on my [YouTube Channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA). The posts will go more into detail on each piece.
 
-My priority in my streams is to spread laughs, love, and the **magic of indie gaming**! ❤ whilst interacting with my wonderful community! You can expect relaxed content with a loving, fun and a slightly disturbed community, always feel free to drop by =)
+My priority in my streams is to spread laughs, love, and the **magic of indie gaming**! ❤ whilst interacting with my wonderful community! You can expect relaxed content with a loving, fun and a slightly disturbed community, always feel free to drop by =).
