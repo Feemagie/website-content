@@ -1,7 +1,7 @@
 ---
-title: Why Indie Games?
-subtitle: The Great Indie Qualities that Inspired Me
-description: Why am I inspired to choose a focus on Indie Games? Glad you asked! You'll enjoy hearing the many qualities that make them a special and distinguishable paradigm.
+title: Why Play Indie Games?
+subtitle: The Style of Indie Games That Inspire Me
+description: Budget aside, what makes indie games different from triple A games? Why am I inspired to choose a focus on Indie Games? Hear about the many qualities that make them a special and distinguishable paradigm.
 author: Feemagie
 date: 2021-01-21
 tags: Indie Games, Feemagie, Streaming, Indie, Blog, Uncharted waters
@@ -10,9 +10,9 @@ banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by Bartek Mazurek on Unsplash
 ---
 
-## So, Why Indie Games?
+## So, Why Play Indie Games?
 
-In relation to my journey of deduction in my previous post ["What are Indie Games? Like Really?"](/blog/what-are-indie-games). 
+This article is in relation to my journey of deduction in my previous post ["What are Indie Games? Like Really?"](/blog/what-are-indie-games). For this article it's important to know the key aspects of an indie game that I go over in my previous post. But who am I to tell you what you can or can't read, especially if you already know what an Indie game is! After diving in to this topic, you'll have a better understanding of the qualities in indie games that make them worth playing. If you like my content, check my work on [Twitch.TV](https://www.twitch.tv/feemagie) and on my [YouTube Channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA).
 
 ### The Indie Style
 
