@@ -1,7 +1,7 @@
 ---
-title: Starting Streamer Equipment Made Easy
-subtitle: Great Recommendations Beginner or Advanced Streaming Items
-description: What are some good equipment for streamers who are starting out? I have excellent recommendations for a webcam, microphone, computer, and more!
+title: The Best Streamer Starting Equipment
+subtitle: Great Hardware Recommendations for Beginner or Advanced Streamers
+description: Recommendations for the greatest beginner and advanced streaming equipment and assessories. From PC, Monitors, Microphones, Webcams, Studio equipment and more. Details on the benefits and drawbacks of each item.
 author: Feemagie
 date: 2021-01-28
 thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
@@ -11,9 +11,9 @@ bannerCredit: Photo by ELLA DON on Unsplash
 
 ## The Comfortable Beginner Setup for an Online Presence
 
-You want to get into streaming. Maybe you want to be like the big Twitch streamers and YouTubers. Maybe you just want to share a passion with others. Maybe you just like talking with other people as you play. In any case, everyone started small (I mean, we were all small babies at some point). As long as you have a passion to share with the world, I can help cover the equipment and process needed to setup a high quality stream for your viewers.
+Do you want to get into streaming? Maybe you want to be like the big Twitch streamers and YouTubers. Maybe you just want to share a passion with others. Perhaps you just like talking with other people as you play. In any case, everyone started small (I mean, we were all small babies at some point). As long as you have a passion to share with the world, I can help cover the equipment and process needed to setup a high quality stream for your viewers. And while I have you here, don't forget to check out my gadgets in action on my [Twitch.TV](https://www.twitch.tv/feemagie) and on my [YouTube Channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA).
 
-Getting everything you need at once can be quite overwhelming, but no fear > Feemagie is here > you are not alone ~~... and never will be &#42; **creepy** &#42;~~ I've gone through the testing and buying of various hardware so you don't have to. Below is the list of computing and peripheral equipment that got me started that link to a more details: 
+Getting everything you need at once can be quite overwhelming, but have no fear > Feemagie is here > you are not alone ~~... and never will be &#42; **creepy** &#42;~~ I've gone through the testing and buying of various hardware so you don't have to. Below is the list of computing and peripheral equipment that got me started that link to a more details: 
 
 - [Above Average **PC**](#pc)
 - [Balanced Quality **Monitor**](#monitor)
@@ -22,7 +22,7 @@ Getting everything you need at once can be quite overwhelming, but no fear > Fee
 - [**Studio** Setup](#studio)
 - [Additional **Peripherals**](#peripheral)
 
-<h3 id="pc">Above Average PC</h3>
+<h3 id="pc">What PC Should I use? How Above Average should it be?</h3>
 
 How "above average" your PC needs to be for streaming on Twitch and/or YouTube is difficult to generalize. It depends a lot on your content. First of all, you have to consider that your PC needs additional processing power to encode the video content for transmission out to the world. Furthermore, you need to consider an increase in processing power if you plan to run your game on the same PC. It would be subject to two jobs at once, so to speak.
 
@@ -41,9 +41,9 @@ Also, if you're like me, and normally playing less performance-intensive content
     </AggregateOffer>
 </Review>
 
-<h3 id="monitor">Balanced Quality Monitor</h3>
+<h3 id="monitor">What Monitor Should I Use? Balanced Quality Monitor.</h3>
 
-What monitor do I need? Of course, you can get started with a simple and inexpensive monitor. Later in time you'll want to get a monitor that can display the picture extremely fast, clear and without annoying picture / lag errors.
+What monitor do I need? Of course, you can get started with a simple and inexpensive monitor. Later in time you'll want to get a monitor that can display the picture extremely fast, clear and without annoying picture or lag errors.
 
 <Review
     info="Here's what I use"
@@ -58,7 +58,7 @@ What monitor do I need? Of course, you can get started with a simple and inexpen
     </AggregateOffer>
 </Review>
 
-<h3 id="microphone">Quality Microphone for Vocals</h3>
+<h3 id="microphone">What Mic Should I Get? Quality Microphone for Vocals.</h3>
 
 _What do I need for a USB audio interface for streaming?_ For the first step, a USB microphone may be sufficient to get started. Over time you will realize its limitations and will most likely want a professional XLR microphone as well as a professional mixing console that allows you to adjust the volume up and down via hardware controls and to feed in additional audio tracks.
 
@@ -75,9 +75,9 @@ _What do I need for a USB audio interface for streaming?_ For the first step, a 
     </AggregateOffer>
 </Review>
 
-<h3 id="webcam">Crisp Webcam</h3>
+<h3 id="webcam">What Webcam should I Buy? Crisp Webcam.</h3>
 
-The Webcam along with a background will connect your viewers more to you. It makes a much more professional impression if you have an even background, rather than your average room in the back. If you wanna be really cool and yourself floating in front of your game, you'll wanna use a green screen (most common) to make the background transparent via the streaming software. A corresponding filter (Chroma Key or Color Key) detects certain color values, selects all nearby color values in each video frame and then makes them transparent. However, in the future, you might not even need a green screen as software gets more advanced.
+The Webcam along with a background will connect your viewers more to you. It makes a much more professional impression if you have an even background, rather than your average room in the back. If you wanna be really cool and have yourself floating in front of your game, you'll wanna use a green screen (most common) to make the background transparent via the streaming software. A corresponding filter (Chroma Key or Color Key) detects certain color values, selects all nearby color values in each video frame and then makes them transparent. However, in the future, you might not even need a green screen as software gets more advanced.
 
 <Review
     info="Here's what I use"
