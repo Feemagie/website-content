@@ -1,7 +1,7 @@
 ---
 title: The Making of my Username, Feemagie
 subtitle: Journey to Coming Up with my Steamer Username
-description: ow I got my title as a female Twitch streamer. The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
+description: How I got my title as a female Twitch streamer. The four step journey I took to come up with that perfect username for my online presence across multiple platforms.
 author: Feemagie
 date: 2021-01-17
 tags: Username, Feemagie, Streaming

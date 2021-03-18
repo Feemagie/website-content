@@ -9,7 +9,7 @@ banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by ELLA DON on Unsplash
 ---
 
-## The Comfortable Beginner Setup for an Online Presence
+## The Beginner Setup for an Online Presence
 
 Do you want to get into streaming? Maybe you want to be like the big Twitch streamers and YouTubers. Maybe you just want to share a passion with others. Perhaps you just like talking with other people as you play. In any case, everyone started small (I mean, we were all small babies at some point). As long as you have a passion to share with the world, I can help cover the equipment and process needed to setup a high quality stream for your viewers. And while I have you here, don't forget to check out my gadgets in action on my [Twitch.TV](https://www.twitch.tv/feemagie) and on my [YouTube Channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA).
 
