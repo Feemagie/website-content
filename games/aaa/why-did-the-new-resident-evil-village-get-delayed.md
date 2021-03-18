@@ -23,4 +23,10 @@ You’ll pretty quickly meet some of the castle denizens as you make your way th
 
 In conclusion, I’m ecstatic to play this game. And, as a Twitch gamer, keep an eye out for my live streams the second this game is released (well, maybe not the second it’s released, but you get the idea). With the incredibly detailed graphics, terrifying yet sexy vampires (check out the trailer to see how insanely realistic Capcom made Lady Dimitrescu!), and other awesome updates, this Resident Evil game is looking to be insane.
 
-If you are new to my page, be sure to check out my [YouTube channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA), my [Twitch profile](https://www.twitch.tv/feemagie), the good old [Instagram](https://www.instagram.com/its.feemagie/), and follow along with my blog for the latest game insights, tips, updates, and other articles from yours truly. Thanks for being here!
+If you are new to my page, be sure to [check out my YouTube channel](https://www.youtube.com/channel/UCCMUeXZV1ErWasw2qEG8TfA), [my Twitch profile](https://www.twitch.tv/feemagie), the [good old Instagram](https://www.instagram.com/its.feemagie/), and follow along with my blog for the latest game insights, tips, updates, and other articles from yours truly. Thanks for being here!
+
+And, if you’re looking to learn a bit more, feel free to check out my latest posts [here](https://feemagie.com/blog):
+* [Starting Streamer Equipment Made Easy](https://feemagie.com/blog/starting-streamer-equipment)
+* [Why Indie Games?](https://feemagie.com/blog/why-i-like-indie-games)
+* [What Are Indie Games? Like Really?](https://feemagie.com/blog/what-are-indie-games)
+* [The Making of My Username](https://feemagie.com/blog/making-of-my-streamer-name)
