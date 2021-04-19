@@ -1,6 +1,6 @@
 ---
 title: Blue Fire
-subtitle: Mastering the Movement
+subtitle: Master the Art of Movement
 description: An action adventure game by ROBI Studios
 date: 2021-04-05
 banner: https://feemagie.com/images/[category]/[slug]/banner.webp

@@ -8,7 +8,7 @@ game: Foxen Island
 gameUrl: https://store.steampowered.com/app/1337880/Foxen_Island/
 gameImage: https://feemagie.com/images/[category]/[slug]/game-cover.webp
 platforms: Windows
-tags: Adventure, Action, Indie, Single-Player, Animals, Casual
+tags: Adventure, Action, Indie, Single-Player, Animals, Casual, Fox
 developer: gamingyourway
 developerUrl: https://store.steampowered.com/app/1337880/Foxen_Island/
 developerImage: https://feemagie.com/images/[category]/[slug]/developer.webp

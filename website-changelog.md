@@ -4,6 +4,7 @@
 * **Created new type of Markdown entry for game summaries**
 * **Designed awesome game case look for game entries on the [Games page](/games)**
 * **Updated _"Games"_ to _"Indie Games"_ in the navigation bar**
+* **Added my [first indie game review](/games/the-last-campfire/the-last-campfire-review) covering The Last Campfire**
 * **Added a change log page to track all my updates to the Feemagie website!**
 * [Blog page](/blog) now shows type of blog entry in the list: _Game_ or _Personal_ entry
   * Game entries show a _Controller_ icon in the background
