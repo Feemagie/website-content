@@ -1,5 +1,6 @@
 ---
 title: Super Fox Girl
+subtitle: Super Rouge Comic Book Action
 description: An action adventure superhero roguelike game by Daniel from Hyperspace
 date: 2021-04-05
 banner: https://feemagie.com/images/[category]/[slug]/banner.webp
@@ -8,12 +9,11 @@ game: Super Fox Girl
 gameUrl: https://www.patreon.com/superfoxgirl
 gameImage: https://feemagie.com/images/[category]/[slug]/game-cover.webp
 platforms: Windows, Mac
-tags: Adventure, Action, Indie, Superhero, Comic-Book, Roguelike
+tags: Adventure, Action, Indie, Superhero, Comic-Book, Roguelike, Alpha Development
 developer: Daniel from Hyperspace
 developerUrl: https://twitter.com/fromhyperspace
 developerImage: https://feemagie.com/images/[category]/[slug]/developer.webp
 author: Feemagie
-draft: true
 ---
 
-Insert game summary here.
+[Super Fox Girl](https://www.patreon.com/superfoxgirl) is an action-packed rouguelike superhero game developed by [FromHyperspace](https://twitter.com/fromhyperspace) that offers tons of exciting a comic-book style adventure. Swing from lampposts, run up buildings, and fend off large bullies twice your size as the amazing heroin in purple vinyl clothing: Super Fox Girl. The game is in the early stages of development, but shows a lot of amazing potential with frequent updates and alpha builds to play if you're a [subscribed patreon](https://www.patreon.com/superfoxgirl). Be sure to check it out!
