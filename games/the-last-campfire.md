@@ -3,16 +3,16 @@ title: The Last Campfire
 subtitle: An Aesthetic Casual Adventure
 description: A narrated adventure indie game by Hello Games.
 date: 2021-04-02
-banner: https://feemagie.com/images/[category]/[slug]/banner.webp
-thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: The Last Campfire
 gameUrl: https://thelastcampfiregame.com/
-gameImage: https://feemagie.com/images/[category]/[slug]/game-cover.webp
+gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
 platforms: Windows, Mac, Nintendo-Switch, Playstation-4, XBox
 tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer
 developer: Hello Games
 developerUrl: https://hellogames.org/
-developerImage: https://feemagie.com/images/[category]/[slug]/developer.webp
+developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 author: Feemagie
 ---
 

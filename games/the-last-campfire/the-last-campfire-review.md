@@ -3,16 +3,11 @@ title: The Last Campfire Review
 subtitle: An Aesthetic Casual Adventure
 description: The developers at Hello Games took on a new project the generated an enchanting world that takes place between optimism and hopelessness called The Last Campfire. Here are my thoughts...
 date: 2021-04-02
-banner: https://feemagie.com/images/[category]/[slug]/banner.webp
-thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: The Last Campfire
-gameUrl: https://thelastcampfiregame.com/
-gameImage: https://feemagie.com/images/games/the-last-campfire/game-cover.webp
 platforms: Windows, Mac, Nintendo-Switch, Playstation-4, XBox
 tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer
-developer: Hello Games
-developerUrl: https://hellogames.org/
-developerImage: https://feemagie.com/images/games/the-last-campfire/developer.webp
 author: Feemagie
 ---
 

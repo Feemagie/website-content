@@ -3,16 +3,16 @@ title: Blue Fire
 subtitle: Master the Art of Movement
 description: An action adventure game by ROBI Studios
 date: 2021-04-05
-banner: https://feemagie.com/images/[category]/[slug]/banner.webp
-thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: Blue Fire
 gameUrl: https://www.robistudios.com/blue-fire-blog
-gameImage: https://feemagie.com/images/[category]/[slug]/game-cover.webp
+gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
 platforms: Windows, Nintendo-Switch, Playstation-4, XBox
 tags: Adventure, Action, Indie, Role-playing, Challenging, Arcade
 developer: ROBI Studios
 developerUrl: https://www.robistudios.com/
-developerImage: https://feemagie.com/images/[category]/[slug]/developer.webp
+developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 author: Feemagie
 ---
 
