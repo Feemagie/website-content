@@ -3,17 +3,17 @@ title: In My Shadow
 subtitle: A Relaxing Deep Platformer
 description: An imaginative puzzle platformer game with a deep story developed by Playbae
 date: 2021-04-22
-banner: https://feemagie.com/images/[category]/[slug]/banner.webp
-thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
+banner: https://feemagie.github.io/website-content/games/images/[slug]-banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/images/[slug]-social-card.webp
 game: In My Shadow
 gameUrl: https://www.inmyshadow.com/
 gameSteamUrl: https://store.steampowered.com/app/1406200/In_My_Shadow/
-gameImage: https://feemagie.com/images/[category]/[slug]/game-cover.webp
+gameImage: https://feemagie.github.io/website-content/games/images/[slug]-game-cover.webp
 platforms: Windows
 tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
 developer: Playbae
 developerUrl: https://www.playbae.in/
-developerImage: https://feemagie.com/images/[category]/[slug]/developer.webp
+developerImage: https://feemagie.github.io/website-content/games/images/[slug]-developer.webp
 author: Feemagie
 ---
 
