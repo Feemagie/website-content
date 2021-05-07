@@ -3,12 +3,9 @@ title: In My Shadow Review
 subtitle: A Relaxing Imaginative Platformer
 description: In My Shadow tells a deep story with creative puzzle mechanics using light sources to project shadows.
 date: 2021-05-04
-banner: https://feemagie.github.io/website-content/games/images/[slug]-banner.webp
-thumbnail: https://feemagie.github.io/website-content/games/images/[slug]-social-card.webp
+banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: In My Shadow
-gameUrl: https://www.inmyshadow.com/
-gameSteamUrl: https://store.steampowered.com/app/1406200/In_My_Shadow/
-gameImage: https://feemagie.com/images/[category]/game-cover.webp
 platforms: Windows
 tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
 author: Feemagie
