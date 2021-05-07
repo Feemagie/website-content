@@ -5,8 +5,8 @@ description: I know — we’re all bummed. Learn more about this big title Capc
 author: Feemagie
 date: 2021-03-18
 tags:  AAA, Capcom, Twitch Streaming, Gamers, Game Streaming, Horror Games, Horror, PS5 Game, PlayStation, PlayStation 5, XBox
-thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
-banner: https://feemagie.com/images/[category]/[slug]/banner.webp
+thumbnail: https://feemagie.github.io/website-content/games/aaa/images/[slug]/social-card.webp
+banner: https://feemagie.github.io/website-content/games/aaa/images/[slug]/banner.webp
 game: Resident Evil Village
 ---
 
