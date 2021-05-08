@@ -14,6 +14,8 @@ tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
 developer: Playbae
 developerUrl: https://www.playbae.in/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]
+screenshotFiles: screenshot-boxes-chairs-and-qr-codes.webp, screenshot-happy-pupper-memories.webp, screenshot-mid-superhero-jump.webp, screenshot-puzzled-on-first-puzzle.webp, screenshot-superhero-room.webp
 author: Feemagie
 ---
 
