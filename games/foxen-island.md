@@ -14,6 +14,8 @@ tags: Adventure, Action, Indie, Single-Player, Animals, Casual, Fox, Story, Puzz
 developer: GamingYourWay
 developerUrl: https://www.gamingyourway.com/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
+screenshotFiles: screenshot-fox-sniffing.webp, screenshot-foxen-controls.webp, screenshot-a-foxy-puzzle.webp, screenshot-foxen-island-map.webp, screenshot-night-digging.webp
 author: Feemagie
 ---
 
