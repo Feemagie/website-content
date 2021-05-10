@@ -13,6 +13,8 @@ tags: Adventure, Action, Indie, Superhero, Comic-Book, Roguelike, Alpha Developm
 developer: Daniel from Hyperspace
 developerUrl: https://twitter.com/fromhyperspace
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
+screenshotFiles: screenshot-first-smash.webp, screenshot-job-done.webp, screenshot-kapow.webp, screenshot-super-fox-flipping.webp, screenshot-wall-climbing.webp
 author: Feemagie
 ---
 
