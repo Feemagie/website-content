@@ -8,6 +8,7 @@ thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social
 game: Foxen Island
 gameUrl: http://foxenisland.com/
 gameSteamUrl: https://store.steampowered.com/app/1337880/Foxen_Island/
+gamePatreonUrl: https://www.patreon.com/gyw
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
 platforms: Windows
 tags: Adventure, Action, Indie, Single-Player, Animals, Casual, Fox, Story, Puzzle

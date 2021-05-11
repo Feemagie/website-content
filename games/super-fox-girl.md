@@ -8,6 +8,7 @@ thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social
 game: Super Fox Girl
 gameUrl: https://www.patreon.com/superfoxgirl
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
+gamePatreonUrl: https://www.patreon.com/superfoxgirl
 platforms: Windows, Mac
 tags: Adventure, Action, Indie, Superhero, Comic-Book, Roguelike, Alpha Development
 developer: Daniel from Hyperspace

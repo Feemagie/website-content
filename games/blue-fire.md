@@ -8,6 +8,7 @@ thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social
 game: Blue Fire
 gameUrl: https://www.robistudios.com/blue-fire-blog
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
+gameSteamUrl: https://store.steampowered.com/app/1220150/Blue_Fire/
 platforms: Windows, Nintendo-Switch, Playstation-4, XBox
 tags: Adventure, Action, Indie, Role-playing, Challenging, Arcade
 developer: ROBI Studios

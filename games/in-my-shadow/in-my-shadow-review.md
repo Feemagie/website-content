@@ -2,7 +2,7 @@
 title: In My Shadow Review
 subtitle: A Relaxing Imaginative Platformer
 description: In My Shadow tells a deep story with creative puzzle mechanics using light sources to project shadows.
-date: 2021-05-09
+date: 2021-05-11
 banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
 thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: In My Shadow
@@ -13,7 +13,7 @@ author: Feemagie
 
 There's something emotionally deep about shadows. Perhaps a poetic symbolism of a lingering darkness that exists whenever we face a hopeful light. And the closer we get... the larger that dark shadow becomes.
 
-In My Shadow tells it's compelling story using that kind of symbolism as it's core mechanics. You, as the player, delve into the memories of a woman as a child silhouette on the walls of a playhouse. This house most likely represents the woman's childhood home. Within the rooms, you're given a set number of objects to use to project shadows upon the walls. Your self-reflected silhouette can use these shadows as platforms to reach the level's objectives in order to progress to the story. Essentially, you need to collect diary pages and meet the character waiting for you at the end. It must be completed in that order, or else the character will silently reject you without the proper pages in your possession.
+In My Shadow tells it's compelling story perhaps using that kind of symbolism as it's core mechanics. You, as the player, delve into the memories of a woman as a child silhouette on the walls of a playhouse. This house represents the woman's childhood home. Within the rooms, you're given a set number of objects to use to project shadows upon the walls. Your self-reflected silhouette can use these shadows as platforms to reach the level's objectives and ultimately progress through the story. Essentially, you need to collect diary pages and then meet the character waiting for you at the end. You'll learn more about her past and (hopefully) help the woman confront some lingering regrets and disappointments.
 
 # An Emotional Story
  

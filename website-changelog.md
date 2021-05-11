@@ -3,6 +3,7 @@
 [ ] Create Indie Game suggestion form for Indie Games I should play<br/>
 [ ] Create Site Map for Search Engines<br/>
 [ ] Figure out how to frickin use the new Google schema validator<br/>
+[ ] Add ability to sort Games & Articles by Tags<br/>
 [ ] Add YouTube and Twitch clips to game pages<br/>
 [ ] _More suggestions welcome_<br/>
 
@@ -14,11 +15,12 @@
 * **Added breadcrumb links to the tops of all blog posts**
 * **Added direct link from Game Articles (as a game box on the side panel) to Game Pages**
 * Added Steam purchase links on game pages
-* Added new screenshot images for _all_ indie games, along with thumbnails
+* Added new screenshot images for some indie games, along with thumbnails
 * Added ability to screenshot preview images in full screen
 * Updated emphasis "Indie Games" in the navigation bar.
 * Updated background color when hovering over games on the [Games](/games) page to be a little lighter
 * Updated location of content images for game to be sorted with their respective markdown content on [GitHub](https://github.com/Feemagie/website-content)
+* Updated Height of Blog Post Entries to be larger
 * Fixed bug with single-page routing not passing reference to custom components
 
 # April 19, 2021
