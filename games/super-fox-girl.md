@@ -14,7 +14,7 @@ developer: Daniel from Hyperspace
 developerUrl: https://twitter.com/fromhyperspace
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
-screenshotFiles: screenshot-first-smash.webp, screenshot-job-done.webp, screenshot-kapow.webp, screenshot-super-fox-flipping.webp, screenshot-wall-climbing.webp
+screenshotFiles: Feemagie-First_Smash.webp, Feemagie-Hero_Job_Done.webp, Feemagie-Kapow.webp, Feemagie-Super_Fox_Flipping.webp, Feemagie-Wall_Running.webp
 author: Feemagie
 ---
 

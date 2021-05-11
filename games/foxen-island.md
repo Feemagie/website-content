@@ -15,7 +15,7 @@ developer: GamingYourWay
 developerUrl: https://www.gamingyourway.com/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
-screenshotFiles: screenshot-fox-sniffing.webp, screenshot-foxen-controls.webp, screenshot-a-foxy-puzzle.webp, screenshot-foxen-island-map.webp, screenshot-night-digging.webp
+screenshotFiles: Feemagie-Fox_Sniffing.webp, Feemagie-Foxen_Island_Controls.webp, Feemagie-A_Foxy_Puzzle.webp, Feemagie-Foxen_Island_Map.webp, Feemagie_Night_Digging.webp
 author: Feemagie
 ---
 

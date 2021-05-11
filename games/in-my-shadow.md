@@ -15,7 +15,7 @@ developer: Playbae
 developerUrl: https://www.playbae.in/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
-screenshotFiles: screenshot-boxes-chairs-and-qr-codes.webp, screenshot-happy-pupper-memories.webp, screenshot-mid-superhero-jump.webp, screenshot-puzzled-on-first-puzzle.webp, screenshot-superhero-room.webp
+screenshotFiles: Feemagie-Boxes_Chairs_and_QR_Codes.webp, Feemagie-Happy_Pupper_Memories.webp, Feemagie-Little_Superhero_Jump.webp, Feemagie-Solving_the_First_Room.webp, Feemagie-Superhero_Room.webp
 author: Feemagie
 ---
 
