@@ -13,6 +13,8 @@ tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer
 developer: Hello Games
 developerUrl: https://hellogames.org/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
+screenshotFiles: Feemagie-Shallowed_by_a_Toad.webp, Feemagie-Bird_People.webp, Feemagie-Puzzling_Puzzle.webp, Feemagie-Snake_God.webp, Feemagie-Upon_the_Hills.webp
 author: Feemagie
 ---
 

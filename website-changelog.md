@@ -1,10 +1,15 @@
-# TODO: DATE
+# May 11, 2021
 
-* **Added [In My Shadow](/games/in-my-shadow) to the Indie Game list!**
+* **Added [Foxen Island](/games/foxen-island), [Super Fox Girl](/games/super-fox-girl), and [In My Shadow](/games/in-my-shadow) to the Indie Game list!**
+* **Added Review Post for [In My Shadow](/games/in-my-shadow/in-my-shadow-review)!**
+* **Added a Screenshot Gallery for each Indie Game page!**
 * **Added breadcrumb links to the tops of all blog posts**
 * **Added direct link from Game Articles (as a game box on the side panel) to Game Pages**
 * Added Steam purchase links on game pages
+* Added new screenshot images for _all_ indie games, along with thumbnails
+* Added ability to screenshot preview images in full screen
 * Updated background color when hovering over games on the [Games](/games) page to be a little lighter
+* Updated location of content images for game to be sorted with their respective markdown content on [GitHub](https://github.com/Feemagie/website-content)
 * Fixed bug with single-page routing not passing reference to custom components
 
 # April 19, 2021
