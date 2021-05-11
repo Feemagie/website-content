@@ -15,8 +15,8 @@ developer: GamingYourWay
 developerUrl: https://www.gamingyourway.com/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
-screenshotFiles: Feemagie-Fox_Sniffing.webp, Feemagie-Foxen_Island_Controls.webp, Feemagie-A_Foxy_Puzzle.webp, Feemagie-Foxen_Island_Map.webp, Feemagie_Night_Digging.webp
+screenshotFiles: Feemagie-Fox_Sniffing.webp, Feemagie-Foxen_Island_Controls.webp, Feemagie-A_Foxy_Puzzle.webp, Feemagie-Foxen_Island_Map.webp, Feemagie-Night_Digging.webp
 author: Feemagie
 ---
 
-[Foxen Island](http://foxenisland.com/) is a casual adventure game developed by [GamingYourWay](https://www.gamingyourway.com/) where you take the role of a curious fox on a magical and mysterious island. The enchanting island is covered with secrets the player can uncover through the keen senses of smell. The game offers many puzzles to solve along the journey that'll test those fox wits. The development for the game is still ongoing, but you can get access early on steam!
+[Foxen Island](http://foxenisland.com/) is a casual adventure game developed by [GamingYourWay](https://www.gamingyourway.com/) where you take the role of a curious fox on a magical and mysterious island. The enchanting island is covered with secrets the player can uncover through the keen senses of smell. The game offers many puzzles to solve along the journey that'll test those fox wits. The development for the game is still ongoing, but you can get access early on steam! You can also support this game on [Patreon]() for some extra perks.

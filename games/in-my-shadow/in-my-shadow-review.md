@@ -7,7 +7,7 @@ banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.we
 thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: In My Shadow
 platforms: Windows
-tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
+tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing, Review
 author: Feemagie
 ---
 

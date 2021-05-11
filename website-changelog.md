@@ -1,3 +1,11 @@
+### ToDo Task List
+[ ] Create Leaderboard page for Subscribers and Supporters<br/>
+[ ] Create Indie Game suggestion form for Indie Games I should play<br/>
+[ ] Create Site Map for Search Engines<br/>
+[ ] Figure out how to frickin use the new Google schema validator<br/>
+[ ] Add YouTube and Twitch clips to game pages<br/>
+[ ] _More suggestions welcome_<br/>
+
 # May 11, 2021
 
 * **Added [Foxen Island](/games/foxen-island), [Super Fox Girl](/games/super-fox-girl), and [In My Shadow](/games/in-my-shadow) to the Indie Game list!**
@@ -8,6 +16,7 @@
 * Added Steam purchase links on game pages
 * Added new screenshot images for _all_ indie games, along with thumbnails
 * Added ability to screenshot preview images in full screen
+* Updated emphasis "Indie Games" in the navigation bar.
 * Updated background color when hovering over games on the [Games](/games) page to be a little lighter
 * Updated location of content images for game to be sorted with their respective markdown content on [GitHub](https://github.com/Feemagie/website-content)
 * Fixed bug with single-page routing not passing reference to custom components

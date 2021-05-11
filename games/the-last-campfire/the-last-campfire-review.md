@@ -7,7 +7,7 @@ banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.we
 thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: The Last Campfire
 platforms: Windows, Mac, Nintendo-Switch, Playstation-4, XBox
-tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer
+tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer, Review
 author: Feemagie
 ---
 
