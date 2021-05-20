@@ -14,6 +14,9 @@ tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
 developer: Playbae
 developerUrl: https://www.playbae.in/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+publisher: Alcon Interactive Group
+publisherUrl: https://www.alconent.com/
+publisherImage: https://feemagie.github.io/website-content/games/images/publishers/alcon-entertainment.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
 screenshotFiles: Feemagie-Boxes_Chairs_and_QR_Codes.webp, Feemagie-Happy_Pupper_Memories.webp, Feemagie-Little_Superhero_Jump.webp, Feemagie-Solving_the_First_Room.webp, Feemagie-Superhero_Room.webp
 author: Feemagie

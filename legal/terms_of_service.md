@@ -47,7 +47,7 @@ Also, you agree that you will not do any of the following in connection with the
 * Create an account or post any content if you are not over 13 years of age years of age; and
 * Circumvent or attempt to circumvent any filtering, security measures, rate limits or other features designed to protect the Service, users of the Service, or third parties.
 
-## **Femagie** Materials
+## **Feemagie** Materials
 
 We put a lot of effort into creating the Service including, the logo and all designs, text, graphics, pictures, information and other content (excluding your content). This property is owned by us or our licensors and it is protected by U.S. and international copyright laws. We grant you the right to use it.
 

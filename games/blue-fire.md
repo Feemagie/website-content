@@ -14,6 +14,9 @@ tags: Adventure, Action, Indie, Role-playing, Challenging, Arcade
 developer: ROBI Studios
 developerUrl: https://www.robistudios.com/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+publisher: graffitigames
+publisherUrl: https://www.graffitigames.com/
+publisherImage: https://feemagie.github.io/website-content/games/images/publishers/graffiti-games.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
 screenshotFiles: Feemagie-Who_Built_this_Town.webp, Feemagie-I_Am_So_Small.webp, Feemagie-Intimidating_Challenges.webp, Feemagie-I_Like_Books.webp, Feemagie-Dangerous_Snow_Hills.webp
 author: Feemagie

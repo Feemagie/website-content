@@ -2,7 +2,7 @@
 title: In My Shadow Fun Facts
 subtitle: Little Known Secrets and Easter Eggs 
 description: There are some facts hidden in the shadows about this game that you might not know, and I'm wanting to share!
-date: 2021-05-06
+date: 2021-05-18
 banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
 game: In My Shadow
@@ -29,9 +29,9 @@ This was demonstrated in a [reddit post](https://www.reddit.com/r/gaming/comment
 
 Although not a fact within the game, did you know the game is actually intended for touchscreen devices: specifically for the Switch and/or Android phones. The game was more or less ported to the PC, and still had great responses to that audience too!
 
-The mobile version is still on it's way and you can check out the updates for it on the [official In My Shadow discord](https://inmyshadow.com/discord)!
+The mobile version is still on it's way and you can check out the updates for it on the [official In My Shadow discord](https://inmyshadow.com/discord).
 
-## An Overdo Text
+## An Overdo Text Message
 
 Once you finish the game's extra level, you'll notice the woman uses her phone one more time to text her father. But what did she write? Well, did you know you're able check it out later on her phone! And yes, I'm giving you the okay to take a peek at this girls messages just once. However, to know what the message said, you'll have to play it yourself ;)
 

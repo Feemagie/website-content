@@ -1,11 +1,20 @@
 ### ToDo Task List
 [ ] Create Leaderboard page for Subscribers and Supporters<br/>
 [ ] Create Indie Game suggestion form for Indie Games I should play<br/>
-[ ] Create Site Map for Search Engines<br/>
 [ ] Figure out how to frickin use the new Google schema validator<br/>
 [ ] Add ability to sort Games & Articles by Tags<br/>
 [ ] Add YouTube and Twitch clips to game pages<br/>
 [ ] _More suggestions welcome_<br/>
+
+# TODO DATE
+
+* **Replaced Google Calendar on the [About page](/about) with a highly customizable [FOSS Calendar](https://jquense.github.io/react-big-calendar/)**
+* **Navigation bar now highlights the navigation item you're viewing**
+* **Added new game article [In My Shadow Fun Facts](/games/in-my-shadow/in-my-shadow-fun-facts)**
+* Added a build generated [SiteMap](/sitemap.xml) and [Robots](robots.txt)
+* Added publisher metadata to [Game Posts](/games)
+* Fixed small type on Terms of Service page
+* Fixed post dates now showing on game pages
 
 # May 11, 2021
 
@@ -16,8 +25,8 @@
 * **Added direct link from Game Articles (as a game box on the side panel) to Game Pages**
 * Added Steam purchase links on game pages
 * Added new screenshot images for some indie games, along with thumbnails
-* Added ability to screenshot preview images in full screen
-* Updated emphasis "Indie Games" in the navigation bar.
+* Added ability to preview screenshot images in full screen
+* Updated emphasis "Indie Games" in the navigation bar
 * Updated background color when hovering over games on the [Games](/games) page to be a little lighter
 * Updated location of content images for game to be sorted with their respective markdown content on [GitHub](https://github.com/Feemagie/website-content)
 * Updated Height of Blog Post Entries to be larger
