@@ -11,7 +11,7 @@ gameSteamUrl: https://store.steampowered.com/app/1337880/Foxen_Island/
 gamePatreonUrl: https://www.patreon.com/gyw
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
 platforms: Windows
-tags: Adventure, Action, Indie, Single-Player, Animals, Casual, Fox, Story, Puzzle
+tags: Adventure, Action, Indie, Single-Player, Animals, Casual, Fox, Story, Puzzle, Single-Player
 developer: GamingYourWay
 developerUrl: https://www.gamingyourway.com/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp

@@ -8,8 +8,9 @@ thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social
 game: The Last Campfire
 gameUrl: https://thelastcampfiregame.com/
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
+dateRelease: 2021-04-09
 platforms: Windows, Mac, Nintendo-Switch, Playstation-4, XBox
-tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, SinglePlayer
+tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, Single-Player
 developer: Hello Games
 developerUrl: https://hellogames.org/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp

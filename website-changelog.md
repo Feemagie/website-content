@@ -11,6 +11,7 @@
 * **Replaced Google Calendar on the [About page](/about) with a highly customizable [FOSS Calendar](https://jquense.github.io/react-big-calendar/)**
 * **Navigation bar now highlights the navigation item you're viewing**
 * **Added new game article [In My Shadow Fun Facts](/games/in-my-shadow/in-my-shadow-fun-facts)**
+* **New indie game [Hob](/games/hob) joins the list!**
 * Added a build generated [SiteMap](/sitemap.xml) and [Robots](robots.txt)
 * Added publisher metadata to [Game Posts](/games)
 * Fixed small type on Terms of Service page

@@ -9,8 +9,9 @@ game: In My Shadow
 gameUrl: https://www.inmyshadow.com/
 gameSteamUrl: https://store.steampowered.com/app/1406200/In_My_Shadow/
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
+dateRelease: 2020-08-27
 platforms: Windows
-tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing
+tags: Puzzle, Story, Arcade, Innovative, Causal, Relaxing, Single-Player
 developer: Playbae
 developerUrl: https://www.playbae.in/
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
