@@ -45,12 +45,12 @@ Once you finish the game's extra level, you'll notice the woman uses her phone o
 
 ![Code Inception](https://feemagie.github.io/website-content/games/images/in-my-shadow-fun-facts/code-inception.webp)
 
-At the very beginning of the game, and even on the title screen, you see the main character on the computer screen working on some code in a development application. This code is actually the logic for the shadow collision for the game itself! She's in the world writing the primary tool to completing the challenges in her memories. That crazy to think about.
+At the very beginning of the game, and even on the title screen, you see the main character on the computer screen working on some code in a development application. This code is actually the logic for the shadow collision for the game itself! She's in the world writing the primary tool to completing the challenges in her memories. That's crazy to think about.
 
 This was a fairly recent reveal on the [developer's twitter post](https://twitter.com/playbaegames/status/1395728858654011394).
 
 ### That's all in the Shadow for Now
 
-There can certainly be more than meets the Feemagie eye. Do you know some facts? Let me know in the comments below or send me a tweet: @feemagie.
+There can certainly be more than meets the Feemagie eye. Do you know some facts? If so, let me know in a comment below.
 
 For the latest info about In My Shadow the game, follow [Playbae](https://playbae.in/). That's how I get all mine.

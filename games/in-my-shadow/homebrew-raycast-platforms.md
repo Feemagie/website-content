@@ -15,6 +15,6 @@ author: Feemagie
 draft: true
 ---
 
-Ray Casting
+Ray Casting Shadow Collisions - Work in Progress - Attempting a Nerdy Post.
 
 <ShadowCollisions />
