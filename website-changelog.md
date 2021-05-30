@@ -1,16 +1,17 @@
 ### ToDo Task List
 [ ] Create Leaderboard page for Subscribers and Supporters<br/>
+[ ] Twitch OAuth2 Connections for addition points<br/>
 [ ] Create Indie Game suggestion form for Indie Games I should play<br/>
-[ ] Figure out how to frickin use the new Google schema validator<br/>
 [ ] Add ability to sort Games & Articles by Tags<br/>
 [ ] Add YouTube and Twitch clips to game pages<br/>
 [ ] _More suggestions welcome_<br/>
 
 # TODO DATE
 
+* **Added capability to submit your own Comments to any post!!!**
+* **Added new game article [In My Shadow Fun Facts](/games/in-my-shadow/in-my-shadow-fun-facts)**
 * **Replaced Google Calendar on the [About page](/about) with a highly customizable [FOSS Calendar](https://jquense.github.io/react-big-calendar/)**
 * **Navigation bar now highlights the navigation item you're viewing**
-* **Added new game article [In My Shadow Fun Facts](/games/in-my-shadow/in-my-shadow-fun-facts)**
 * **New indie game [Hob](/games/hob) joins the list!**
 * Added a build generated [SiteMap](/sitemap.xml) and [Robots](robots.txt)
 * Added publisher metadata to [Game Posts](/games)

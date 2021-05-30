@@ -20,7 +20,7 @@ There are some hidden secrets and special interactions after achieving some circ
 <h2 id="shadowy-goal">#1 The Shadowy Goal doesn't Always Vanish</h2>
 
 ![Meeting the Happy Shadow Dog](https://feemagie.github.io/website-content/games/images/in-my-shadow-fun-facts/meeting-the-happy-dog.webp)
- 
+
 If you played some of the first levels of the game, you might have noticed the dog will vanish after reaching it; consequently leaving a sad little girl. But you might also notice there are times the dog will stay to the end of the level's scene! This isn't a random occurrence.
 
 **In fact, to keep the shadowy character from leaving a sad girl behind, you must beat the level without dying!**

@@ -1,0 +1,172 @@
+[
+    {
+        "slug": "sunblaze",
+        "title": "Sunblaze",
+        "brief": "A challenging fast-paced puzzle platformer.",
+        "tags": "Platformer, Puzzle, Challenging, 2D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1525660/Sunblaze/",
+        "gameTwitterUrl": "https://twitter.com/SunblazeGame"
+    },
+    {
+        "slug": "wild-dose",
+        "title": "Wild Dose",
+        "brief": "A wild cyberpunk role-playing-game.",
+        "tags": "Platformer, Puzzle, Challenging, 2D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/lappisoft"
+    },
+    {
+        "slug": "mayhem-in-single-valley",
+        "title": "Mayhem in Single Valley",
+        "brief": "A 2.5D adventure to save the world from an apocalypse.",
+        "tags": "Adventure, Action, 2.5D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/"
+    },
+    {
+        "slug": "defend-till-sunshine",
+        "title": "Defend Till Sunshine",
+        "brief": "Defend yourself until sunshine with a puppy at your side.",
+        "tags": "Adventure, Survival, 3D, Single-Player, Crafting",
+        "url": "https://store.steampowered.com/app/1514090/Defend_Till_Sunshine/",
+        "gameTwitterUrl": "https://twitter.com/DefendTSunshine"
+    },
+    {
+        "slug": "re-turn-2-runaway",
+        "title": "Re:Turn 2 - Runaway",
+        "brief": "A 2D survival horror story in a haunted train.",
+        "tags": "Horror, Adventure, 2D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1470420/ReTurn_2__Runaway/",
+        "gameTwitterUrl": "https://twitter.com/re_turn_game"
+    },
+    {
+        "slug": "lost-eidolons",
+        "title": "Lost Eidolons",
+        "brief": "A tactical turn-based RPG in a fantasy world.",
+        "tags": "Tactics, Strategy, RPG, Turn-Base, Single-Player",
+        "url": "https://store.steampowered.com/app/1580520/Lost_Eidolons/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/OceanDriveGames"
+    },
+    {
+        "slug": "best-day-ever",
+        "title": "Best Day Ever",
+        "brief": "Four characters try to live their best day.",
+        "tags": "Narration, Choices-Matter, Art, Story, Single-Player",
+        "url": "https://store.steampowered.com/app/1286380/Best_Day_Ever/",
+        "gameTwitterUrl": "https://twitter.com/BestDayEverGame"
+    },
+    {
+        "slug": "until-we-die",
+        "title": "Until We Die",
+        "brief": "A side-scrolling defense game against mutants.",
+        "tags": "Shooter, Action, Survival, 2D, Single-Player",
+        "url": "https://store.steampowered.com/app/1197570/Until_We_Die/",
+        "gameTwitterUrl": "https://twitter.com/PixeyeHQ"
+    },
+    {
+        "slug": "little-martian",
+        "title": "Little Martian",
+        "brief": "Return home after crash landing on an alien planet.",
+        "tags": "Adventure, Exploration, Crafting",
+        "url": "https://store.steampowered.com/app/1455610/Little_Martian/",
+        "gameTwitterUrl": "https://twitter.com/MartiansGame"
+    },
+    {
+        "slug": "sanctuary-saga-prelude",
+        "title": "Sanctuary Saga: Prelude",
+        "brief": "Guilds leave their homeland for the wilds.",
+        "tags": "Adventure, Rougelite, RPG, Single-Player",
+        "url": "https://store.steampowered.com/app/1582200/Sanctuary_Saga_Prelude/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/boomersworkshop"
+    },
+    {
+        "slug": "mage-drops",
+        "title": "Mage Drops",
+        "brief": "Master the elements to win platformer environments.",
+        "tags": "Platformer, 3D, Golf-Like, Single-Player",
+        "url": "https://store.steampowered.com/app/1552600/Mage_Drops/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/Oorgames"
+    },
+    {
+        "slug": "project-canopy",
+        "title": "Project Canopy",
+        "brief": "Explore and discover secrets of an alien planet.",
+        "tags": "Adventure, Crafting, Harvest, 3D, First-Person, Single-Player",
+        "url": "https://store.steampowered.com/app/1281830/Project_Canopy/",
+        "gameTwitterUrl": "https://twitter.com/SocksAndGoats"
+    },
+    {
+        "slug": "understanding-the-game",
+        "title": "Understanding, The Game",
+        "brief": "A suspenseful horror investigation game.",
+        "tags": "Horror, Mystery, Adventure, Single-Player",
+        "url": "https://store.steampowered.com/app/1491640/Understanding_The_Game/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/MatyGexGames"
+    },
+    {
+        "slug": "smoothcade",
+        "title": "Smoothcade",
+        "brief": "A competitive game with collectables and critters.",
+        "tags": "Arcade, Platformer, 2D, Single-Player, Local co-op",
+        "url": "https://www.smoothcade.com/",
+        "gameTwitterUrl": "https://twitter.com/smoothcadesquad"
+    },
+    {
+        "slug": "crooks-like-us",
+        "title": "Crooks Like Us",
+        "brief": "A party game about collecting valuables.",
+        "tags": "Arcade, Casual, Single-Player, Online-Co-op, Online-PvP",
+        "url": "https://store.steampowered.com/app/1492650/Crooks_Like_Us/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/crookslikeus"
+    },
+    {
+        "slug": "absolutely-barbaric",
+        "title": "Absolutely Barbaric",
+        "brief": "A hack and slash game to gather as many points as possible.",
+        "tags": "Arcade, Slasher, 2D, Pixel, Single-Player",
+        "url": "https://bucket-full-games.itch.io/absolutely-barbaric",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/ZloUmOE"
+    },
+    {
+        "slug": "catacombs-of-the-necromancer",
+        "title": "Catacombs of the Necromancer",
+        "brief": "An adventure to save your daughter from a Necromancer.",
+        "tags": "Old-School, Adventure, Hand-Drawn, Single-Player",
+        "url": "https://schmidt-workshops.itch.io/catacombs-of-the-necromancer",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/MKSchmidt30"
+    },
+    {
+        "slug": "the-town-of-poe",
+        "title": "The Town of Poe",
+        "brief": "Solve a murder in the Town of Poe.",
+        "tags": "Mystery, 2D, Detective, Single-Player",
+        "url": "https://migcreatesgames.itch.io/the-town-of-poe",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/MigCreatesGames"
+    },
+    {
+        "slug": "the-girl-who-knew-time",
+        "title": "The Girl Who Knew Time",
+        "brief": "An enchanting visual novel about love and friendship.",
+        "tags": "Novel, Choices-Matter, Art, Story, Single-Player",
+        "url": "https://www.trinitymoonstudios.com/",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/mariyadiminsky"
+    },
+    {
+        "slug": "afterlife",
+        "title": "AFTERLIFE",
+        "brief": "A new soul needing to return to life.",
+        "tags": "RPG, 2D, Humor, Single-Player",
+        "url": "https://afterlifegame.itch.io/afterlife",
+        "early": true,
+        "gameTwitterUrl": "https://twitter.com/onetappsgames"
+    }
+]

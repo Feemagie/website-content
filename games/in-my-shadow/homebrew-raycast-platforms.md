@@ -16,5 +16,3 @@ draft: true
 ---
 
 Ray Casting Shadow Collisions - Work in Progress - Attempting a Nerdy Post.
-
-<ShadowCollisions />
