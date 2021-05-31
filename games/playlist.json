@@ -1,5 +1,12 @@
 [
     {
+        "slug": "mayhem-in-single-valley",
+        "title": "Mayhem in Single Valley",
+        "brief": "A 2.5D adventure to save the world from an apocalypse.",
+        "tags": "Adventure, Action, 2.5D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/"
+    },
+    {
         "slug": "sunblaze",
         "title": "Sunblaze",
         "brief": "A challenging fast-paced puzzle platformer.",
@@ -15,13 +22,6 @@
         "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/",
         "early": true,
         "gameTwitterUrl": "https://twitter.com/lappisoft"
-    },
-    {
-        "slug": "mayhem-in-single-valley",
-        "title": "Mayhem in Single Valley",
-        "brief": "A 2.5D adventure to save the world from an apocalypse.",
-        "tags": "Adventure, Action, 2.5D, Single-Player, Pixel",
-        "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/"
     },
     {
         "slug": "defend-till-sunshine",

@@ -1,16 +1,18 @@
 ### ToDo Task List
 [ ] Create Leaderboard page for Subscribers and Supporters<br/>
-[ ] Twitch OAuth2 Connections for addition points<br/>
+[ ] Twitch OAuth2 Connections<br/>
 [ ] Create Indie Game suggestion form for Indie Games I should play<br/>
 [ ] Add ability to sort Games & Articles by Tags<br/>
 [ ] Add YouTube and Twitch clips to game pages<br/>
 [ ] _More suggestions welcome_<br/>
 
-# TODO DATE
+# May 31, 2021
 
+* **Added [list of ordered Indie Games](/schedule) I want to try to play in June**
 * **Added capability to submit your own Comments to any post!!!**
 * **Added new game article [In My Shadow Fun Facts](/games/in-my-shadow/in-my-shadow-fun-facts)**
-* **Replaced Google Calendar on the [About page](/about) with a highly customizable [FOSS Calendar](https://jquense.github.io/react-big-calendar/)**
+* **Created new page for the [Stream Schedule](/schedule) (which used to be on the [About page](/about))**
+* **Replaced Google Calendar on the [Schedule page](/schedule) with a highly customizable [FOSS Calendar](https://jquense.github.io/react-big-calendar/)**
 * **Navigation bar now highlights the navigation item you're viewing**
 * **New indie game [Hob](/games/hob) joins the list!**
 * Added a build generated [SiteMap](/sitemap.xml) and [Robots](robots.txt)
