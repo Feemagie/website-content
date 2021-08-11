@@ -17,7 +17,7 @@ developerUrl: https://store.steampowered.com/search/?developer=Nicolas%20Meysson
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
 publisher: Headup
 publisherUrl: https://www.headupgames.com/
-publisherImage: https://feemagie.github.io/website-content/games/images/publishers/graffiti-games.webp
+publisherImage: https://feemagie.github.io/website-content/games/images/publishers/headup-games.webp
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
 screenshotFiles: Feemagie-Big_Ghost_Man.webp, Feemagie-Cart_Riding.webp, Feemagie-No_Way_OP.webp, Feemagie-Battle_Time.webp, Feemagie-Bodiless_Golfing.webp
 author: Feemagie

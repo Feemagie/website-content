@@ -4,11 +4,19 @@
         "title": "Mayhem in Single Valley",
         "brief": "A 2.5D adventure to save the world from an apocalypse.",
         "tags": "Adventure, Action, 2.5D, Single-Player, Pixel",
-        "url": "https://store.steampowered.com/app/1379270/Wild_Dose_First_Session/"
+        "url": "https://store.steampowered.com/app/622680/Mayhem_in_Single_Valley/"
     },
     {
         "slug": "sunblaze",
         "title": "Sunblaze",
+        "brief": "A challenging fast-paced puzzle platformer.",
+        "tags": "Platformer, Puzzle, Challenging, 2D, Single-Player, Pixel",
+        "url": "https://store.steampowered.com/app/1525660/Sunblaze/",
+        "gameTwitterUrl": "https://twitter.com/SunblazeGame"
+    },
+    {
+        "slug": "quickly-quackly",
+        "title": "Quickly, Quackley!",
         "brief": "A challenging fast-paced puzzle platformer.",
         "tags": "Platformer, Puzzle, Challenging, 2D, Single-Player, Pixel",
         "url": "https://store.steampowered.com/app/1525660/Sunblaze/",
