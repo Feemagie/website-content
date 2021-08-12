@@ -6,15 +6,17 @@ date: 2021-04-02
 banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
 thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
 game: 'Twin Stones: The Journey of Bukka'
-gameUrl: https://thelastcampfiregame.com/
+gameUrl: https://store.steampowered.com/app/1662690/Twin_Stones_The_Journey_of_Bukka/
 gameImage: https://feemagie.github.io/website-content/games/images/[slug]/game-cover.webp
-dateRelease: 2021-04-09
-platforms: Windows, Mac, Nintendo-Switch, Playstation-4, XBox
-tags: Adventure, Puzzle, Indie, Narrative, Story, Linear, Casual, Single-Player
-developer: Hello Games
-developerUrl: https://hellogames.org/
+dateRelease: 2021-07-19
+platforms: Windows
+tags: Adventure, Action, Platformer, 3D, Indie, Narrative, Story, Linear, Voice-Dialog, Speed-Run, Single-Player, Free, Colorful
+developer: Oasis Balloon Studio
+developerUrl: https://store.steampowered.com/search/?developer=Oasis%20Balloon%20-%20Studio
 developerImage: https://feemagie.github.io/website-content/games/images/[slug]/developer.webp
+publisher: ESAT
+publisherUrl: https://store.steampowered.com/search/?publisher=ESAT
 screenshotPath: https://feemagie.github.io/website-content/games/images/[slug]/screenshots
-screenshotFiles: Feemagie-Shallowed_by_a_Toad.webp, Feemagie-Bird_People.webp, Feemagie-Puzzling_Puzzle.webp, Feemagie-Snake_God.webp, Feemagie-Upon_the_Hills.webp
+screenshotFiles: Feemagie-Checkpoint_Stones.webp, Feemagie-Beautiful_Sceneries.webp, Feemagie-Post_Explosion.webp, Feemagie-Rock_Surfing.webp, Feemagie-Slide_Dashing.webp
 author: Feemagie
 ---
