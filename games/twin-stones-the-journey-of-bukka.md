@@ -1,7 +1,7 @@
 ---
 title: 'Twin Stones: The Journey of Bukka'
 subtitle: A Vibrant Adventure with a Scary Goddess
-description: A vibrant adventure 3D platformer indie game where you adventure as young Bukka with a cute but deadly Goddess demanding that you save the world from the chaos caused by her none other than her brother.
+description: A vibrant adventure 3D platformer indie game where you adventure as young Bukka with a cute, but deadly, Goddess demanding that you save the world from the chaos caused by none other than her brother.
 date: 2021-08-12
 banner: https://feemagie.github.io/website-content/games/images/[slug]/banner.webp
 thumbnail: https://feemagie.github.io/website-content/games/images/[slug]/social-card.webp
