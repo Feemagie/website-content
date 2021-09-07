@@ -8,6 +8,7 @@ tags:  AAA, Capcom, Twitch Streaming, Gamers, Game Streaming, Horror Games, Horr
 thumbnail: https://feemagie.github.io/website-content/games/aaa/images/[slug]/social-card.webp
 banner: https://feemagie.github.io/website-content/games/aaa/images/[slug]/banner.webp
 game: Resident Evil Village
+draft: true
 ---
 
 As if the coronavirus didn’t put a damper on enough aspects of our lives, it is now likely going to affect the release date of the newest Resident Evil game, Resident Evil Village, that was supposed to release on May 7th. And while Capcom still has the release date listed as May 7th, the latest issue of Edge magazine has stated that it has been pushed back to June 22nd. And while many of us Twitch gamers are hoping that this may be a typo, it, unfortunately, sounds pretty legit.

@@ -7,7 +7,7 @@ date: 2021-01-28
 thumbnail: https://feemagie.com/images/[category]/[slug]/social-card.webp
 banner: https://feemagie.com/images/[category]/[slug]/banner.webp
 bannerCredit: Photo by ELLA DON on Unsplash
-draft: false
+draft: true
 ---
 
 ## The Beginner Setup for an Online Presence
